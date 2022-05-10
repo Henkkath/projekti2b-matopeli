@@ -1,0 +1,19 @@
+*{
+    font-family: 'Teko', sans-serif;
+}
+body{
+    background: rgb(36,33,0);
+    background: linear-gradient(90deg, rgba(36,33,0,1) 0%, rgba(9,121,99,1) 35%, rgba(124,0,255,1) 100%);
+}
+#container{
+    text-align: center;
+    margin: 1rem;  
+}
+#canvas{
+    background-image: url(multaa.jpg);
+}
+h1{
+    align-items: center;
+    text-align: center;
+    font-size: 5rem;
+}
